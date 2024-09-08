@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkscholarhub"]=self["webpackChunkscholarhub"]||[]).push([[510],{3510:function(u,n,r){r.r(n),r.d(n,{default:function(){return h}});var t=function(){var u=this,n=u._self._c;return n("div",[u._v(" "+u._s(u.introduce)+" ")])},e=[],l={data(){return{introduce:"资源介绍"}}},c=l,s=r(1001),a=(0,s.Z)(c,t,e,!1,null,null,null),h=a.exports}}]);
+//# sourceMappingURL=510.65267ee2.js.map
